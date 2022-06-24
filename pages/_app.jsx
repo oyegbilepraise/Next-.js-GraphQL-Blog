@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "../styles/globals.scss";
 import { Layout } from "../components";
-import '../styles/NProgress.scss';
+import '../styles/Nprogress.scss';
 
 import Router from 'next/router';
 import NProgress from 'nprogress';
