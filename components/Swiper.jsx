@@ -37,15 +37,15 @@ const Swiperi = () => {
         }}
         breakpoints={{
           470: {
-            slidesPerView: 1.5,
+            slidesPerView: 1.75,
             spaceBetween: 20,
           },
           760: {
-            slidesPerView: 1.5,
+            slidesPerView: 1.75,
             spaceBetween: 20,
           },
           1100: {
-            slidesPerView: 1.5,
+            slidesPerView: 1.75,
             spaceBetween: 20,
           },
         }}
